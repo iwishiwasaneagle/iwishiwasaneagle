@@ -5,8 +5,8 @@
   <img align='right' src="https://media.giphy.com/media/At2ZBjzkfE4iA/giphy.gif" width="230">
   
   <samp>
-    Hello, I'm Jan-Hendrik! 👋
-    Lead Systems Engineer at Gibson Robotics<br>
+    Hello, I'm Jan-Hendrik! 👋 <br>
+    :briefcase: Lead Systems Engineer at Gibson Robotics<br>
     :school: 5th year Aerospace Systems student at the University of Glasgow<br>
     :email:	jh.ewers@gmail.com <br>
     :link: Wesbite: <a href="https://janhendrikewers.uk">website</a> <br>
