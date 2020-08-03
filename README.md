@@ -2,7 +2,7 @@
   <br>
   <br>
  
-  <img align='right' src="https://giphy.com/embed/QWGuOFoq82eGx34Zhd" width="230">
+  <img align='right' src="https://media.giphy.com/media/At2ZBjzkfE4iA/giphy.gif" width="230">
   
   <samp>
     Hello, I'm Jan-Hendrik! 👋
