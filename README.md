@@ -8,7 +8,7 @@
     Hello, I'm Jan-Hendrik! 👋 <br>
     :briefcase: Lead Systems Engineer at Gibson Robotics<br>
     :school: 5th year Aerospace Systems student at the University of Glasgow<br>
-    :email:	jh.ewers@gmail.com <br>
+    :email:	<a href="mailto:jh.ewers@gmail.com">jh.ewers@gmail.com</a> <br>
     :link: <a href="https://janhendrikewers.uk">Website</a> <br>
     :briefcase: <a href="https://www.linkedin.com/in/jh-ewers/">LinkedIn</a> <br><br><br>
     </samp>
