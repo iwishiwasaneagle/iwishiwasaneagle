@@ -12,5 +12,5 @@
     :link: Wesbite: <a href="https://janhendrikewers.uk">website</a> <br>
     :briefcase: LinkedIn:  <a href="https://www.linkedin.com/in/jh-ewers/">LinkedIn Profile</a> <br><br><br>
     </samp>
-  <img align='center' src="https://github-readme-stats.vercel.app/api?username=iwishiwasaneagle">
+  <img align='center' src="https://github-readme-stats.vercel.app/api?username=iwishiwasaneagle&count_private=true&show_icons=true">
 </p>
