@@ -14,5 +14,5 @@
     </samp>
   <!--<img align='center' src="https://github-readme-stats.vercel.app/api?username=iwishiwasaneagle&count_private=true&show_icons=true">
   <br>-->
-  <img align='center' src="https://github-profile-trophy.vercel.app/?username=iwishiwasaneagle&rank=SECRET,SSS,SS,S,AAA,AA,A&column=3&margin-w=15&margin-h=15">
+  <img align='center' src="https://github-profile-trophy.vercel.app/?username=iwishiwasaneagle&margin-w=15&margin-h=15">
 </p>
