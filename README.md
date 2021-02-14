@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iwishiwasaneagle" alt="iwishiwasaneagle" /></a> </p>
 
-- 🔭 I’m currently working on [Optimum Path Planning for Search and Rescue](https://github.com/iwishiwasaneagle/JHE_MEng)
+- 🔭 I’m currently working on [Box of Hope](https://github.com/iwishiwasaneagle/Boxofhope)
 
-- 🌱 I’m currently learning **react**
+- 🌱 I’m currently learning **C/C++**
 
 - 📫 How to reach me **jh.ewers@gmail.com**
 
