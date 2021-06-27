@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/jhewers" target="blank"><img src="https://img.shields.io/twitter/follow/jhewers?logo=twitter&style=for-the-badge" alt="jhewers" /></a> </p>
 
-- 🔭 I’m currently working on [Box of Hope](https://github.com/iwishiwasaneagle/Boxofhope)
+- 🔭 I’m currently working on https://spotify.janhendrikewers.uk
 
-- 🌱 I’m currently learning **C/C++**
+- 🌱 I’m currently learning **FastAPI** and **React**
 
 - 📫 How to reach me **jh.ewers@gmail.com**
 
