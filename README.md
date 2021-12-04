@@ -17,6 +17,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Scheduling Backups To OneDrive For Paperless-ng Using RClone](https://janhendrikewers.uk/scheduled-off-site-backups-for-paperless-ng-using-rclone.html)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
