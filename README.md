@@ -17,9 +17,9 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [How To Find The CA Certificate For ESP32&#39;s WiFiClientSecure](https://janhendrikewers.uk/how_to-find-the-CA-Cert-for-ESP32-WiFiClientSecure.html)
 - [How To Make Your Blog Searchable Using Algolia](https://janhendrikewers.uk/how_to_make_your_blog_searchable.html)
 - [Scheduling Backups To OneDrive For Paperless-ng Using RClone](https://janhendrikewers.uk/scheduled-off-site-backups-for-paperless-ng-using-rclone.html)
-- [Paperless-ng On Raspberry Pi With Email And Samba](https://janhendrikewers.uk/paperless-ng_on_localy_hosted_rpi.html)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
