@@ -17,9 +17,9 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [How To Easily Export Figures From Your Jupyter Notebooks](https://janhendrikewers.uk/export_images_from_jupyter_notebook.html)
 - [Min-Maxing Your First Wordle Guess](https://janhendrikewers.uk/min-maxing_your_first_wordle_guess.html)
 - [How To Find The CA Certificate For ESP32&#39;s WiFiClientSecure](https://janhendrikewers.uk/how_to-find-the-CA-Cert-for-ESP32-WiFiClientSecure.html)
-- [How To Make Your Blog Searchable Using Algolia](https://janhendrikewers.uk/how_to_make_your_blog_searchable.html)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
