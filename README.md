@@ -17,9 +17,9 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Serialization Of Pydantic Data Models With JSON Whilst Preserving Type Data](https://janhendrikewers.uk/serialization_of_pydantic_data_models_with_json_whilst_preserving_type_data.html)
 - [How To Easily Export Figures From Your Jupyter Notebooks](https://janhendrikewers.uk/export_images_from_jupyter_notebook.html)
 - [Min-Maxing Your First Wordle Guess](https://janhendrikewers.uk/min-maxing_your_first_wordle_guess.html)
-- [How To Find The CA Certificate For ESP32&#39;s WiFiClientSecure](https://janhendrikewers.uk/how_to-find-the-CA-Cert-for-ESP32-WiFiClientSecure.html)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
