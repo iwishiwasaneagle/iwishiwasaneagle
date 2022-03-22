@@ -17,9 +17,9 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Pydantic vs Protobuf vs Namedtuples vs Dataclasses](https://janhendrikewers.uk/pydantic_vs_protobuf_vs_namedtuple_vs_dataclasses.html)
 - [Upgrading from Paperless-NG to Paperless-NGX](https://janhendrikewers.uk/upgrading_from_paperless-ng_to_paperless_ngx.html)
 - [Serialization Of Pydantic Data Models With JSON Whilst Preserving Type Data](https://janhendrikewers.uk/serialization_of_pydantic_data_models_with_json_whilst_preserving_type_data.html)
-- [How To Easily Export Figures From Your Jupyter Notebooks](https://janhendrikewers.uk/export_images_from_jupyter_notebook.html)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
