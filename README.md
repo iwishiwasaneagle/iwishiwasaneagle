@@ -17,9 +17,9 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Taking A Step In The General Direction Of Good Git OpSec](https://janhendrikewers.uk/taking_a_step_in_the_general_direction_of_good_git_opsec.html)
 - [Pydantic vs Protobuf vs Namedtuples vs Dataclasses](https://janhendrikewers.uk/pydantic_vs_protobuf_vs_namedtuple_vs_dataclasses.html)
 - [Upgrading from Paperless-NG to Paperless-NGX](https://janhendrikewers.uk/upgrading_from_paperless-ng_to_paperless_ngx.html)
-- [Serialization Of Pydantic Data Models With JSON Whilst Preserving Type Data](https://janhendrikewers.uk/serialization_of_pydantic_data_models_with_json_whilst_preserving_type_data.html)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
