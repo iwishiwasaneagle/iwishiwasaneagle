@@ -17,9 +17,9 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [One Python Import Quirk You Need to Know, Or Why The Heck Is That A Function?](https://janhendrikewers.uk/how-do-python-imports-work.html)
 - [Custom Obsidian Templater Daily Notes Template With Dynamic Linking](https://janhendrikewers.uk/obsidian-templater-daily-notes-with-dynamic-linking.html)
 - [External Library Documentation URLS for PyCharm](https://janhendrikewers.uk/useful_pycharm_urls.html)
-- [Taking A Step In The General Direction Of Good Git OpSec](https://janhendrikewers.uk/taking_a_step_in_the_general_direction_of_good_git_opsec.html)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
