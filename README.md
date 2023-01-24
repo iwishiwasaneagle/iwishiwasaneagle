@@ -17,9 +17,9 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Exploring Faster Alternatives To np.clip](https://janhendrikewers.uk/exploring_faster_np_clip.html)
 - [How To Block YouTube Shorts In Your Feed And Inbox](https://janhendrikewers.uk/how_to_block_youtube_shorts_in_your_feed.html)
 - [Using GMail&#39;s App Passwords With Paperless-NGX](https://janhendrikewers.uk/gmail_app_password_with_paperless-ngx.html)
-- [One Python Import Quirk You Need to Know, Or Why The Heck Is That A Function?](https://janhendrikewers.uk/how-do-python-imports-work.html)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
