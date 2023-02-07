@@ -17,9 +17,9 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Pip Install From Private GitHub Repos](https://janhendrikewers.uk/pip_install_from_private_repos.html)
 - [Exploring Faster Alternatives To np.clip](https://janhendrikewers.uk/exploring_faster_np_clip.html)
 - [How To Block YouTube Shorts In Your Feed And Inbox](https://janhendrikewers.uk/how_to_block_youtube_shorts_in_your_feed.html)
-- [Using GMail&#39;s App Passwords With Paperless-NGX](https://janhendrikewers.uk/gmail_app_password_with_paperless-ngx.html)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
