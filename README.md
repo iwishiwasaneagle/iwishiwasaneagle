@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jan-Hendrik Ewers</h1>
-<h3 align="center">1st year PhD candidate at the University of Glasgow, Scotland</h3>
+<h3 align="center">2nd year PhD candidate at the University of Glasgow, Scotland</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iwishiwasaneagle&label=Profile%20views&color=0e75b6&style=flat" alt="iwishiwasaneagle" /> </p>
 
@@ -7,13 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/jhewers" target="blank"><img src="https://img.shields.io/twitter/follow/jhewers?logo=twitter&style=for-the-badge" alt="jhewers" /></a> </p>
 
-- 🔭 I’m currently working on [jSim](https://github.com/iwishiwasaneagle/jsim)
+- 🔭 I’m currently working on [jdrones](https://github.com/iwishiwasaneagle/jdrones)
 
 - 🌱 I’m currently researching **Path Planning for Search and Rescue**
 
 - 👯 I’m looking to collaborate on **SAR**
 
-- 📝 I regularly write articles on [https://janhendrikewers.uk/blog.html](https://janhendrikewers.uk/blog.html)
+- 📝 I regularly write articles on [janhendrikewers.uk](https://janhendrikewers.uk/blog)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
