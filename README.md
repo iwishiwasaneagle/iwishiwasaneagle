@@ -17,7 +17,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [How Your Psychological Profile Used In A Mountain Rescue Search](https://janhendrikewers.uk/how_your_psychological_profile_used_in_a_mountain_rescue_search.html)
+- [How Your Psychological Profile Is Used In A Mountain Rescue Search](https://janhendrikewers.uk/how_your_psychological_profile_is_used_in_a_mountain_rescue_search.html)
 - [Pip Install From Private GitHub Repos](https://janhendrikewers.uk/pip_install_from_private_repos.html)
 - [Exploring Faster Alternatives To np.clip](https://janhendrikewers.uk/exploring_faster_np_clip.html)
 <!-- BLOG-POST-LIST:END -->
