@@ -17,9 +17,9 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [How Your Psychological Profile Used In A Mountain Rescue Search](https://janhendrikewers.uk/how_your_psychological_profile_used_in_a_mountain_rescue_search.html)
 - [Pip Install From Private GitHub Repos](https://janhendrikewers.uk/pip_install_from_private_repos.html)
 - [Exploring Faster Alternatives To np.clip](https://janhendrikewers.uk/exploring_faster_np_clip.html)
-- [How To Block YouTube Shorts In Your Feed And Inbox](https://janhendrikewers.uk/how_to_block_youtube_shorts_in_your_feed.html)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
