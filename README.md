@@ -17,9 +17,9 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Hosting Plausible Analytics On A Raspberry Pi 4 with SSL](https://janhendrikewers.uk/plausible_analytics_on_a_raspberry_pi_with_SSL.html/?source=RSS)
 - [How Your Psychological Profile Is Used In A Mountain Rescue Search](https://janhendrikewers.uk/how_your_psychological_profile_is_used_in_a_mountain_rescue_search.html/?source=RSS)
 - [Pip Install From Private GitHub Repos](https://janhendrikewers.uk/pip_install_from_private_repos.html/?source=RSS)
-- [Exploring Faster Alternatives To np.clip](https://janhendrikewers.uk/exploring_faster_np_clip.html/?source=RSS)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
