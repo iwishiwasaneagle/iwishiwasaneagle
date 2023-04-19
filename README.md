@@ -17,9 +17,9 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Useful LaTex One-Liners For Reports/Papers/Etc.](https://janhendrikewers.uk/useful-latex-one-liners-for-reports-papers-etc.html/?source=RSS)
 - [Easier Jekyll Post Creation Using jekyll-compose](https://janhendrikewers.uk/easier-jekyll-post-creation-using-jekyll-compose.html/?source=RSS)
 - [Hosting Plausible Analytics On A Raspberry Pi 4 with SSL](https://janhendrikewers.uk/plausible_analytics_on_a_raspberry_pi_with_SSL.html/?source=RSS)
-- [How Your Psychological Profile Is Used In A Mountain Rescue Search](https://janhendrikewers.uk/how_your_psychological_profile_is_used_in_a_mountain_rescue_search.html/?source=RSS)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
