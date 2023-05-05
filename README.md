@@ -17,9 +17,9 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [A Simple Linux Counter](https://janhendrikewers.uk/a-simple-linux-counter.html/?source=RSS)
 - [How To Never Miss The Aurora Borealis Again!](https://janhendrikewers.uk/how-to-never-miss-the-aurora-borealis-again.html/?source=RSS)
 - [Useful LaTex One-Liners For Reports/Papers/Etc.](https://janhendrikewers.uk/useful-latex-one-liners-for-reports-papers-etc.html/?source=RSS)
-- [Easier Jekyll Post Creation Using jekyll-compose](https://janhendrikewers.uk/easier-jekyll-post-creation-using-jekyll-compose.html/?source=RSS)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
