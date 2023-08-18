@@ -17,9 +17,9 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Pydantic 1 vs 2: A Speed Comparison](https://janhendrikewers.uk/pydantic-1-vs-2-a-benchmark-test.html/?source=RSS)
 - [How To Properly Wipe Your Reddit Account](https://janhendrikewers.uk/how-to-properly-wipe-your-reddit-account.html/?source=RSS)
 - [A Simple Linux Counter](https://janhendrikewers.uk/a-simple-linux-counter.html/?source=RSS)
-- [How To Never Miss The Aurora Borealis Again!](https://janhendrikewers.uk/how-to-never-miss-the-aurora-borealis-again.html/?source=RSS)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
