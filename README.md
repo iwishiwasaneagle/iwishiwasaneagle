@@ -16,7 +16,10 @@
 - 📝 I regularly write articles on [janhendrikewers.uk](https://janhendrikewers.uk/blog)
 
 ### Blogs posts
-<!-- BLOG-POST-LIST:START -->[Pydantic 1 vs 2: A Speed Comparison](https://janhendrikewers.uk/pydantic-1-vs-2-a-benchmark-test.html/?source=RSS?utm_source=github&utm_medium=profile&utm_campaign=blog_posts_list)[How To Properly Wipe Your Reddit Account](https://janhendrikewers.uk/how-to-properly-wipe-your-reddit-account.html/?source=RSS?utm_source=github&utm_medium=profile&utm_campaign=blog_posts_list)[A Simple Linux Counter](https://janhendrikewers.uk/a-simple-linux-counter.html/?source=RSS?utm_source=github&utm_medium=profile&utm_campaign=blog_posts_list)<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->- [Pydantic 1 vs 2: A Speed Comparison](https://janhendrikewers.uk/pydantic-1-vs-2-a-benchmark-test.html/?utm_source=github&utm_medium=profile&utm_campaign=blog_posts_list)
+- [How To Properly Wipe Your Reddit Account](https://janhendrikewers.uk/how-to-properly-wipe-your-reddit-account.html/?utm_source=github&utm_medium=profile&utm_campaign=blog_posts_list)
+- [A Simple Linux Counter](https://janhendrikewers.uk/a-simple-linux-counter.html/?utm_source=github&utm_medium=profile&utm_campaign=blog_posts_list)
+<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
