@@ -13,7 +13,7 @@
 
 - 👯 I’m looking to collaborate on **SAR**
 
-- 📝 I regularly write articles on [janhendrikewers.uk](https://janhendrikewers.uk/blog)
+- 📝 I regularly write articles on [janhendrikewers.uk](https://janhendrikewers.uk/blog?utm_source=Github&utm_medium=Profile)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
