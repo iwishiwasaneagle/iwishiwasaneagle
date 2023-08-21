@@ -13,6 +13,6 @@ jobs:
               with: 
                 max_post_count: "3"
                 feed_list: "https://janhendrikewers.uk/atom.xml"
-                template: "- [$title]($url?utm_source=github&utm_medium=profile&utm_campaign=blog_posts_list)$newline"
+                template: "$newline- [$title]($url?utm_source=github&utm_medium=profile&utm_campaign=blog_posts_list)"
                 item_exec: |
                     post.url = post.url.split('?')[0];
