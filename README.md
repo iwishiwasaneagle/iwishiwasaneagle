@@ -26,7 +26,7 @@
 <a href="https://twitter.com/jhewers" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jhewers" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/jhewers" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jhewers" height="30" width="40" /></a>
 <a href="https://instagram.com/janhendrikewers" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="janhendrikewers" height="30" width="40" /></a>
-<a href="/https://janhendrikewers.uk/atom.xml" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://janhendrikewers.uk/atom.xml" height="30" width="40" /></a>
+<a href="https://janhendrikewers.uk/atom.xml" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://janhendrikewers.uk/atom.xml" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
