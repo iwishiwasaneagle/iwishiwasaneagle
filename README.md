@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jan-Hendrik Ewers</h1>
-<h3 align="center">2nd year PhD candidate at the University of Glasgow, Scotland</h3>
+<h3 align="center">3rd year PhD candidate at the University of Glasgow, Scotland</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iwishiwasaneagle&label=Profile%20views&color=0e75b6&style=flat" alt="iwishiwasaneagle" /> </p>
 
