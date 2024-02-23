@@ -17,9 +17,9 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Optimising Search and Rescue: How Algorithms Could Outperform Human Pilots](https://janhendrikewers.uk/optimising-search-and-rescue.html?utm_source=Github&utm_medium=Profile&utm_campaign=Blog_posts_list)
 - [Pydantic 1 vs 2: A Speed Comparison](https://janhendrikewers.uk/pydantic-1-vs-2-a-benchmark-test.html?utm_source=Github&utm_medium=Profile&utm_campaign=Blog_posts_list)
-- [How To Properly Wipe Your Reddit Account](https://janhendrikewers.uk/how-to-properly-wipe-your-reddit-account.html?utm_source=Github&utm_medium=Profile&utm_campaign=Blog_posts_list)
-- [A Simple Linux Counter](https://janhendrikewers.uk/a-simple-linux-counter.html?utm_source=Github&utm_medium=Profile&utm_campaign=Blog_posts_list)<!-- BLOG-POST-LIST:END -->
+- [How To Properly Wipe Your Reddit Account](https://janhendrikewers.uk/how-to-properly-wipe-your-reddit-account.html?utm_source=Github&utm_medium=Profile&utm_campaign=Blog_posts_list)<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
