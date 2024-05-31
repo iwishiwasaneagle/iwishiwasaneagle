@@ -17,9 +17,9 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Say No to Latex Bloat: A Docker Approach](https://janhendrikewers.uk/install_latex_using_docker?utm_source=janhendrikewers.uk&utm_medium=RSS?utm_source=Github&utm_medium=Profile&utm_campaign=Blog_posts_list)
 - [Enhance Your Website with a Functional CSS Bookshelf](https://janhendrikewers.uk/bookshelf_for_personal_website?utm_source=janhendrikewers.uk&utm_medium=RSS?utm_source=Github&utm_medium=Profile&utm_campaign=Blog_posts_list)
-- [Optimising Search and Rescue: How Algorithms Could Outperform Human Pilots](https://janhendrikewers.uk/optimising-search-and-rescue?utm_source=janhendrikewers.uk&utm_medium=RSS?utm_source=Github&utm_medium=Profile&utm_campaign=Blog_posts_list)
-- [Pydantic 1 vs 2: A Speed Comparison](https://janhendrikewers.uk/pydantic-1-vs-2-a-benchmark-test?utm_source=janhendrikewers.uk&utm_medium=RSS?utm_source=Github&utm_medium=Profile&utm_campaign=Blog_posts_list)<!-- BLOG-POST-LIST:END -->
+- [Optimising Search and Rescue: How Algorithms Could Outperform Human Pilots](https://janhendrikewers.uk/optimising-search-and-rescue?utm_source=janhendrikewers.uk&utm_medium=RSS?utm_source=Github&utm_medium=Profile&utm_campaign=Blog_posts_list)<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
